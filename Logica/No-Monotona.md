@@ -75,4 +75,4 @@ $$ \forall x\ \in\ Seres\ Vivos\newline Mamifero(x)\rarr Viviparo(x)\newline x :
 - Con este fin, hace uso de uno de sus pilares, el razonamiento por defecto, capaz de crear conclusiones iniciales que pueden ser anuladas por nuevas evidencias, pero que permiten avanzar en el razonamiento y actuar en consecuencia.
 - "A las mujeres les gusta el chocolate, asique a mi esposa le gustara que le compre chocolate" es un ejemplo que mantiene su validez a menos que no le guste el chocolate, con lo cual posteriormente se puede anular la conclusion. Se ha creado una conclusion a partir de informacion parcial.
 - Para representar esto en logica de proposiciones se le suele añadir un modal M (modalidad) a la formula, indicando que la formula es una conclusion por defecto y se puede desechar si se encuentra una contradiccion.
-- Estos cambios se les conocen como conflictos y se resuelven mediante revision de creencias.
+
